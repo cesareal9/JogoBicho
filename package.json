@@ -1,7 +1,7 @@
 {
     "name": "jogobicho",
     "version": "1.0.0",
-    "type": "model",
+    "type": "module",
     "description": "",
     "main": "src/app.js",
     "scripts": {
