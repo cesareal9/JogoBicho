@@ -130,7 +130,7 @@ module.exports = Aposta;
 //         },
 //         {
 //             nome: "Vaca",
-//             numero: [97, 98, 99, 0],
+//             numero: [97, 98, 99, 100],
 //         },
 //     ],
 // });
